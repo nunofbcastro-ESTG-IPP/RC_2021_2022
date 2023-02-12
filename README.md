@@ -2,7 +2,7 @@
 
 <p>
   <img src="http://img.shields.io/static/v1?style=for-the-badge&label=School%20year&message=2021/2022&color=sucess"/>
-  <img src="http://img.shields.io/static/v1?style=for-the-badge&label=Discipline&message=BD&color=sucess"/>
+  <img src="http://img.shields.io/static/v1?style=for-the-badge&label=Discipline&message=RC&color=sucess"/>
   <a href="https://github.com/nunofbcastro-ESTG-IPP/RC_2021_2022/blob/main/Enunciado.pdf" target="_blank">
     <img src="https://img.shields.io/badge/-Utterance-grey?style=for-the-badge"/>
   </a>
